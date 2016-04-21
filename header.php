@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" media="screen" title="no title" charset="utf-8">
         <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" media="screen" title="no title" charset="utf-8">
         <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css" media="screen" title="no title" charset="utf-8">
+        <link rel="icon" href="../img/favicon.ico" />
         <link rel="stylesheet" href="css/style.css" media="screen" title="no title" charset="utf-8">
         <link href='https://fonts.googleapis.com/css?family=Jura' rel='stylesheet' type='text/css'>
     </head>
