@@ -1,0 +1,102 @@
+header {
+  font-family: "Jura";
+}
+header #navigation-principal {
+  margin-top: 10px;
+  text-align: right;
+}
+header #navigation-principal li {
+  background: url(../img/fleche.png) right center no-repeat;
+  list-style-type: none;
+}
+header #navigation-principal a {
+  font-size: 1.7em;
+  text-decoration: none;
+  padding-right: 0.7em;
+}
+header #navigation-principal #element-1 a {
+  color: #D94A64;
+}
+header #navigation-principal #element-2 a {
+  color: #9FC33C;
+}
+header #navigation-principal #element-3 a {
+  color: #994279;
+}
+header #navigation-principal #element-4 a {
+  color: #EB9D4C;
+}
+header #navigation-principal #element-5 a {
+  color: #D94A64;
+}
+header #navigation-principal #element-6 a {
+  color: #9FC33C;
+}
+
+footer {
+  margin-top: 50px;
+}
+footer p {
+  text-align: center;
+}
+
+.contenu-principal {
+  -moz-box-shadow: 1px 1px 5px 0px #9FC33C;
+  -webkit-box-shadow: 1px 1px 5px 0px #9FC33C;
+  -o-box-shadow: 1px 1px 5px 0px #9FC33C;
+  box-shadow: 1px 1px 5px 0px #9FC33C;
+  filter: progid:DXImageTransform.Microsoft.Shadow(color=#9FC33C, Direction=134, Strength=5);
+  padding: 0.2em 1.5em;
+}
+.contenu-principal h2 {
+  font-family: "Jura";
+  color: #EB9D4C;
+}
+.contenu-principal .edito {
+  margin-top: 2em;
+}
+
+.style-actu {
+  -moz-box-shadow: 1px 1px 5px 0px #EB9D4C;
+  -webkit-box-shadow: 1px 1px 5px 0px #EB9D4C;
+  -o-box-shadow: 1px 1px 5px 0px #EB9D4C;
+  box-shadow: 1px 1px 5px 0px #EB9D4C;
+  filter: progid:DXImageTransform.Microsoft.Shadow(color=#EB9D4C, Direction=134, Strength=5);
+  padding: 0.2em 0.5em;
+  margin-bottom: 1.5em;
+  font-family: "Jura";
+}
+.style-actu h3 {
+  color: #9FC33C;
+}
+.style-actu ul {
+  list-style-image: url("../img/fleche-droit.png");
+  margin-left: -20px;
+}
+.style-actu ul a {
+  text-decoration: none;
+  font-size: 1.2em;
+}
+.style-actu ul #element-1 {
+  color: #D94A64;
+}
+.style-actu ul #element-2 {
+  color: #9FC33C;
+}
+.style-actu ul #element-3 {
+  color: #994279;
+}
+.style-actu ul #element-4 {
+  color: #EB9D4C;
+}
+
+.style-sidebar {
+  -moz-box-shadow: 1px 1px 5px 0px #D94A64;
+  -webkit-box-shadow: 1px 1px 5px 0px #D94A64;
+  -o-box-shadow: 1px 1px 5px 0px #D94A64;
+  box-shadow: 1px 1px 5px 0px #D94A64;
+  filter: progid:DXImageTransform.Microsoft.Shadow(color=#D94A64, Direction=134, Strength=5);
+  padding: 0 0.5em;
+}
+
+/*# sourceMappingURL=style.css.map */

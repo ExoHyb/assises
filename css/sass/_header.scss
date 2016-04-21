@@ -1,0 +1,54 @@
+header {
+    font-family: "Jura";
+    #navigation-principal {
+        margin-top: 10px;
+        // list-style-image: url("../img/fleche.png");
+        // list-style-position: inherit;
+        text-align: right;
+        li {
+            background: url(../img/fleche.png) right center no-repeat;
+            list-style-type: none;
+        }
+        a {
+            font-size: 1.7em;
+            text-decoration: none;
+            padding-right: 0.7em;
+        }
+        #element-1 {
+            // margin-left: -20px;
+            a {
+                color: #D94A64;
+            }
+        }
+        #element-2 {
+            // margin-left: -20px;
+            a {
+                color: #9FC33C;
+            }
+        }
+        #element-3 {
+            // margin-left: -50px;
+            a {
+                color: #994279;
+            }
+        }
+        #element-4 {
+            // margin-left: -70px;
+            a {
+                color: #EB9D4C;
+            }
+        }
+        #element-5 {
+            // margin-left: -90px;
+            a {
+                color: #D94A64;
+            }
+        }
+        #element-6 {
+            // margin-left: -110px;
+            a {
+                color: #9FC33C;
+            }
+        }
+    }
+}
