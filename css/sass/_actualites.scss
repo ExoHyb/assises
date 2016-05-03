@@ -1,0 +1,33 @@
+.style-actu {
+    -moz-box-shadow: 1px 1px 5px 0px #EB9D4C;
+    -webkit-box-shadow: 1px 1px 5px 0px #EB9D4C;
+    -o-box-shadow: 1px 1px 5px 0px #EB9D4C;
+    box-shadow: 1px 1px 5px 0px #EB9D4C;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#EB9D4C, Direction=134, Strength=5);
+    padding: 0.2em 0.5em;
+    margin-bottom: 1.5em;
+    font-family: "Jura";
+    h3 {
+        color: #9FC33C;
+    }
+    ul {
+        list-style-image: url("../img/fleche-droit.png");
+        margin-left: -20px;
+        a {
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        #element-1 {
+            color: #D94A64;
+        }
+        #element-2 {
+            color: #9FC33C;
+        }
+        #element-3 {
+            color: #994279;
+        }
+        #element-4 {
+            color: #EB9D4C;
+        }
+    }
+}

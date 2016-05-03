@@ -1,68 +1,10 @@
 @import "header.scss";
+@import "sidebar.scss";
+@import "contenu_principal.scss";
+@import "actualites.scss";
+@import "programme.scss";
+@import "partenaires.scss";
+@import "portrait.scss";
+@import "infos_pratiques.scss";
+@import "edition_precedente.scss";
 @import "footer.scss";
-
-.contenu-principal {
-    // border: 1px solid #9FC33C;
-    // border-radius: 3px;
-    -moz-box-shadow: 1px 1px 5px 0px #9FC33C;
-    -webkit-box-shadow: 1px 1px 5px 0px #9FC33C;
-    -o-box-shadow: 1px 1px 5px 0px #9FC33C;
-    box-shadow: 1px 1px 5px 0px #9FC33C;
-    filter:progid:DXImageTransform.Microsoft.Shadow(color=#9FC33C, Direction=134, Strength=5);
-    padding: 0.2em 1.5em;
-    h2 {
-        font-family: "Jura";
-        color: #EB9D4C;
-    }
-    .edito {
-        margin-top: 2em;
-    }
-}
-
-
-.style-actu {
-    // border: 1px solid #EB9D4C;
-    // border-radius: 3px;
-    -moz-box-shadow: 1px 1px 5px 0px #EB9D4C;
-    -webkit-box-shadow: 1px 1px 5px 0px #EB9D4C;
-    -o-box-shadow: 1px 1px 5px 0px #EB9D4C;
-    box-shadow: 1px 1px 5px 0px #EB9D4C;
-    filter:progid:DXImageTransform.Microsoft.Shadow(color=#EB9D4C, Direction=134, Strength=5);
-    padding: 0.2em 0.5em;
-    margin-bottom: 1.5em;
-    font-family: "Jura";
-    h3 {
-        color: #9FC33C;
-    }
-    ul {
-        list-style-image: url("../img/fleche-droit.png");
-        margin-left: -20px;
-        a {
-            text-decoration: none;
-            font-size: 1.2em;
-        }
-        #element-1 {
-            color: #D94A64;
-        }
-        #element-2 {
-            color: #9FC33C;
-        }
-        #element-3 {
-            color: #994279;
-        }
-        #element-4 {
-            color: #EB9D4C;
-        }
-    }
-}
-
-.style-sidebar {
-    // border: 1px solid #D94A64;
-    // border-radius: 3px;
-    -moz-box-shadow: 1px 1px 5px 0px #D94A64;
-    -webkit-box-shadow: 1px 1px 5px 0px #D94A64;
-    -o-box-shadow: 1px 1px 5px 0px #D94A64;
-    box-shadow: 1px 1px 5px 0px #D94A64;
-    filter:progid:DXImageTransform.Microsoft.Shadow(color=#D94A64, Direction=134, Strength=5);
-    padding: 0 0.5em;
-}

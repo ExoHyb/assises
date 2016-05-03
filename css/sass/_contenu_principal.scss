@@ -1,0 +1,15 @@
+.contenu-principal {
+    -moz-box-shadow: 1px 1px 5px 0px #9FC33C;
+    -webkit-box-shadow: 1px 1px 5px 0px #9FC33C;
+    -o-box-shadow: 1px 1px 5px 0px #9FC33C;
+    box-shadow: 1px 1px 5px 0px #9FC33C;
+    filter:progid:DXImageTransform.Microsoft.Shadow(color=#9FC33C, Direction=134, Strength=5);
+    padding: 0.2em 1.5em;
+    h2 {
+        font-family: "Jura";
+        color: #EB9D4C;
+    }
+    .edito {
+        margin-top: 2em;
+    }
+}
