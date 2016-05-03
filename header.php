@@ -19,12 +19,12 @@
                 </div>
                 <div class="col-md-4">
                     <ul id="navigation-principal">
-                        <li id="element-1"><a href="#">Acceuil</a></li>
-                        <li id="element-2"><a href="#">Programmes</a></li>
-                        <li id="element-3"><a href="#">Partenaires</a></li>
-                        <li id="element-4"><a href="#">Portrait</a></li>
-                        <li id="element-5"><a href="#">Infos Pratiques</a></li>
-                        <li id="element-6"><a href="#">Editions Précédentes</a></li>
+                        <li id="element-1"><a href="index.php">Acceuil</a></li>
+                        <li id="element-2"><a href="programme.php">Programmes</a></li>
+                        <li id="element-3"><a href="partenaires.php">Partenaires</a></li>
+                        <li id="element-4"><a href="portrait.php">Portrait</a></li>
+                        <li id="element-5"><a href="infos_pratiques.php">Infos Pratiques</a></li>
+                        <li id="element-6"><a href="edition_precedente.php">Editions Précédentes</a></li>
                     </ul>
                 </div>
             </div>
