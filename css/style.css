@@ -92,11 +92,19 @@ header #navigation-principal #element-6 a {
   color: #EB9D4C;
 }
 
+.partner-content {
+  width: 70%;
+  margin-left: 5em;
+}
+
+.col-md-3 {
+  margin-right: -4em;
+  margin-top: 1em;
+}
+
 footer {
   margin-top: 50px;
 }
 footer p {
   text-align: center;
 }
-
-/*# sourceMappingURL=style.css.map */
