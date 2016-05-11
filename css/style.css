@@ -92,28 +92,94 @@ header #navigation-principal #element-6 a {
   color: #EB9D4C;
 }
 
-<<<<<<< HEAD
 .partner-content {
-  width: 70%;
+  width: 700px;
   margin-left: 5em;
+  float: left;
+}
+
+.partenaires {
+  width: 1300px;
+  height: 2500px;
 }
 
 .col-md-3 {
-  margin-right: -4em;
+  margin-right: -2em;
   margin-top: 1em;
-=======
-<<<<<<< HEAD
-.div_form {
-  margin-top: 50px;
 }
 
-.form_btn {
+.part-one {
+  padding-bottom: 3em;
+  border-bottom: solid 1px gray;
+}
+
+.part-droit {
+  float: right;
+  width: 350px;
+}
+
+aside.part-droit {
+  margin-right: 12em;
+  margin-top: 5em;
+}
+
+.fa-twitter {
+  color: blue;
+}
+
+#follow {
+  margin-top: 2em;
+  background-color: blue;
   color: white;
-  background-color: #9FC33C;
-  padding: 5px 10px;
-  border-radius: 3px;
-  border: 2px solid #9FC33C;
-=======
+}
+
+button {
+  margin-top: 2em;
+}
+
+.glossaire {
+  border: 2px solid gray;
+  height: 4em;
+  margin-top: 2em;
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+.glossaire h4 a {
+  color: gray;
+}
+
+.glossaire:hover {
+  background-color: gray;
+  color: white;
+}
+
+.glossaire h4 a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+#titre-playlist {
+  text-align: center;
+}
+
+.playlist {
+  background-color: black;
+}
+
+.playlist img {
+  width: 20%;
+  margin-left: 9em;
+  margin-top: 2em;
+}
+
+.playlist p {
+  color: white;
+  font-size: 22px;
+  text-align: center;
+  margin: 0.5em;
+}
+
 ul.polaroids a:after {
   content: attr(title);
 }
@@ -179,8 +245,18 @@ ul.polaroids a {
 ul.polaroids a {
   -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.5);
->>>>>>> 9ee00a5f72e3052f29c3e1c0edaaec8e6c809b93
->>>>>>> 48389fe01cc65ae607184a384b4ff53c68515250
+}
+
+.div_form {
+  margin-top: 50px;
+}
+
+.form_btn {
+  color: white;
+  background-color: #9FC33C;
+  padding: 5px 10px;
+  border-radius: 3px;
+  border: 2px solid #9FC33C;
 }
 
 footer {

@@ -1,5 +1,7 @@
 <?php include "header.php"; ?>
 
+ <section class="partenaires">
+
   <section class="partner-content">
 
     <div class="row">
@@ -13,6 +15,9 @@
        <h3> Partenaires locaux</h3>
      </div>
    </div>
+
+
+     <section class="part-one">
 
      <div class="row">
        <div class="col-md-3">
@@ -167,6 +172,57 @@
           <img src="img/image 20.jpg" alt="">
        </div>
      </div>
+   </section>
+ </section>
 
-  </section>
+
+       <aside class="part-droit">
+         <div class="droit-un">
+         <div class="row">
+           <div class="col-md-4">
+           <i class="fa fa-twitter fa-3x" aria-hidden="true"></i>
+         </div>
+           <div class="col-md-8">
+           <h3><strong># ASSMEDNUM</strong></h3>
+      </div>
+    </div>
+       <div class="row">
+         <div class="col-md-7">
+        <button id="follow"> <i class="fa fa-twitter" aria-hidden="true"></i>Follow@assmednum</button>
+      </div>
+         <div class="col-md-5">
+           <button><a href="#">489 Followers</a></button>
+      </div>
+    </div>
+
+      <div class="row">
+        <div class="glossaire">
+          <h4><a href="#">GLOSSAIRE NUMERIQUE</a></h4>
+        </div>
+    </div>
+  </div>
+
+
+       <div id="titre-playlist" class="row">
+         <h5>Playlist musique libre de</h5>
+         <h5>notre partenaire <strong><a href="#">Zikibrenbib</a></strong></h5>
+    </div>
+
+    <div class="playlist">
+      <img src="img/logo-creme.svg">
+
+      <p>Assises Nationales de la Mediation Numerique</p>
+
+        <ul>
+          <li><a href="#"><img src="http://placehold.it/10x10"></a></li>
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+          <li><a href="#"></a></li>
+      </ul>
+  </div>
+
+  </aside>
+</section>
+
 <?php include "footer.php"; ?>

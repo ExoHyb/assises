@@ -1,9 +1,87 @@
 .partner-content {
-  width: 70%;
+  width: 700px;
   margin-left: 5em;
+  float: left;
+}
+
+.partenaires {
+  width: 1300px;
+  height: 2500px;
 }
 
 .col-md-3 {
-  margin-right: -4em;
+  margin-right: -2em;
   margin-top: 1em;
+}
+
+.part-one {
+  padding-bottom: 3em;
+  border-bottom: solid 1px gray;
+}
+
+.part-droit {
+  float: right;
+  width: 350px;
+}
+
+aside.part-droit {
+  margin-right: 12em;
+  margin-top: 5em;
+}
+
+.fa-twitter {
+  color: blue;
+}
+
+#follow {
+  margin-top: 2em;
+  background-color: blue;
+  color: white;
+}
+
+button {
+  margin-top: 2em;
+}
+
+.glossaire {
+  border: 2px solid gray;
+  height: 4em;
+  margin-top: 2em;
+  text-align: center;
+  padding-top: 0.5em;
+}
+
+.glossaire h4 a {
+  color: gray;
+}
+
+.glossaire:hover {
+  background-color: gray;
+  color: white;
+}
+
+.glossaire h4 a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+#titre-playlist {
+  text-align: center;
+}
+
+.playlist {
+  background-color: black;
+}
+
+.playlist img {
+  width: 20%;
+  margin-left: 9em;
+  margin-top: 2em;
+}
+
+.playlist p {
+  color: white;
+  font-size: 22px;
+  text-align: center;
+  margin: 0.5em;
 }
