@@ -4,21 +4,15 @@
 
   <section class="partner-content">
 
-    <div class="row">
+    <div class="titre-partenaires">
       <div class="col-md-12">
       <h1> Des partenaires engagés...</h1>
     </div>
   </div>
 
-     <div class="row">
-       <div class="col-md-12">
-       <h3> Partenaires locaux</h3>
-     </div>
-   </div>
-
 
      <section class="part-one">
-
+        <h2> Partenaires locaux</h2>
      <div class="row">
        <div class="col-md-3">
          <a href="http://www.cnfpt.fr/content/delegation-regionale-basse-normandie?gl=ZmRhYTVhYzc"></a>
@@ -173,6 +167,46 @@
        </div>
      </div>
    </section>
+
+        <section class="part-two">
+          <h2>Partenaires machin</h2>
+          <img src="img/image 21.jpg">
+          <img src="img/image 22.png">
+          <img src="img/image 23.jpg">
+          <img src="img/image 24.jpg">
+          <img src="img/image 25.jpg">
+          <img src="img/image 26.jpg">
+          <img src="img/image 27.jpg">
+          <img src="img/image.gif">
+          <img src="img/1441977096.jpg">
+          <img src="img/1441977344.jpg">
+    </section>
+
+         <section class="part-three">
+           <h2>Partenaires truc</h2>
+           <img src="img/1441226636.png">
+           <img src="img/1441227283.png">
+           <img src="img/image 28.jpg">
+           <img src="img/image 30.png">
+           <img src="img/image 31.jpg">
+           <img src="img/image 32.png">
+           <img src="img/image 34.png">
+           <img src="img/image 35.png">
+           <img src="img/image 36.png">
+           <img src="img/image 37.png">
+           <img src="img/image 39.png">
+           <img src="img/1441227282.gif">
+           <img src="img/1441227283 bis.png">
+           <img src="img/image 28.png">
+           <img src="img/1441227284.gif">
+           <img src="img/1441959186.png">
+           <img src="img/image 29.jpg">
+  </section>
+
+           <section class="part-four">
+             <h2>Partenaires bidule</h2>
+              <img src="img/image 38.png">
+  </section>
  </section>
 
 
@@ -183,7 +217,7 @@
            <i class="fa fa-twitter fa-3x" aria-hidden="true"></i>
          </div>
            <div class="col-md-8">
-           <h3><strong># ASSMEDNUM</strong></h3>
+           <h3><strong>#ASSMEDNUM</strong></h3>
       </div>
     </div>
        <div class="row">
@@ -195,11 +229,9 @@
       </div>
     </div>
 
-      <div class="row">
         <div class="glossaire">
           <h4><a href="#">GLOSSAIRE NUMERIQUE</a></h4>
         </div>
-    </div>
   </div>
 
 
@@ -214,12 +246,31 @@
       <p>Assises Nationales de la Mediation Numerique</p>
 
         <ul>
-          <li><a href="#"><img src="http://placehold.it/10x10"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
+          <li><img src="img/50_50_recto_41154.jpg">LED ZEPPELIN</li>
+          <li><img src="img/50_50_recto_41370.jpg">THE DOORS</li>
+          <li><img src="img/50_50_recto_41376.jpg">DEEP PURPLE</li>
+          <li><img src="img/50_50_recto_42404.jpg">JIMY HENDRIX</li>
+          <li><img src="img/50_50_recto_42040.jpg">PINK FLOYD</li>
+          <li><img src="img/50_50_recto_42620.jpg">SWEET SMOKE</li>
+          <li><img src="img/50_50_recto_42801.jpg">BOB MARLEY</li>
+          <li><i class="fa fa-play" aria-hidden="true"></i><i class="fa fa-minus" aria-hidden="true"></i>0.00<i class="fa fa-volume-up" aria-hidden="true"></i></li>
+
       </ul>
+  </div>
+
+
+         <div class="contact-partenaires">
+           <h2>Contact</h2>
+           <h4><strong>Region Basse Normandie</strong><h4>
+           <h4>Direction du Developpement</h4>
+           <h4>numerique du territoire</h4>
+           <h4>02 31 56 87 45</h4>
+           <h4>06 24 15 25 89</h4>
+           <h4><a href="#">formulaire de contact</a></h4>
+    </div>
+
+        <div class="code-partenaires">
+            <img src="img/1431445162.png">
   </div>
 
   </aside>

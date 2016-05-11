@@ -92,15 +92,31 @@ header #navigation-principal #element-6 a {
   color: #EB9D4C;
 }
 
-.partner-content {
-  width: 700px;
-  margin-left: 5em;
-  float: left;
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .partenaires {
-  width: 1300px;
-  height: 2500px;
+  width: 1070px;
+}
+
+.titre-partenaires {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.titre-partenaires {
+  color: green;
+}
+
+.partner-content {
+  width: 800px;
+  float: left;
+  padding-left: 7em;
 }
 
 .col-md-3 {
@@ -111,30 +127,44 @@ header #navigation-principal #element-6 a {
 .part-one {
   padding-bottom: 3em;
   border-bottom: solid 1px gray;
+  padding-top: 7em;
+}
+
+.part-two {
+  padding-bottom: 3em;
+  border-bottom: solid 1px gray;
+}
+
+.part-three {
+  padding-bottom: 3em;
+  border-bottom: solid 1px gray;
 }
 
 .part-droit {
   float: right;
-  width: 350px;
+  width: 250px;
 }
 
 aside.part-droit {
-  margin-right: 12em;
+  width: 250px;
   margin-top: 5em;
+  padding-right: 0;
 }
 
 .fa-twitter {
-  color: blue;
+  color: #1E90FF;
 }
 
 #follow {
   margin-top: 2em;
-  background-color: blue;
+  background-color: #1E90FF;
   color: white;
+  font-size: 12px;
 }
 
 button {
   margin-top: 2em;
+  font-size: 12px;
 }
 
 .glossaire {
@@ -143,6 +173,7 @@ button {
   margin-top: 2em;
   text-align: center;
   padding-top: 0.5em;
+  margin-bottom: 3em;
 }
 
 .glossaire h4 a {
@@ -161,6 +192,8 @@ button {
 
 #titre-playlist {
   text-align: center;
+  padding-top: 2em;
+  border-top: 1px solid gray;
 }
 
 .playlist {
@@ -178,6 +211,46 @@ button {
   font-size: 22px;
   text-align: center;
   margin: 0.5em;
+}
+
+.playlist ul li {
+  list-style-type: none;
+  color: white;
+}
+
+.playlist ul li img {
+  margin: 1em;
+  margin-bottom: 1em;
+}
+
+.fa-volume-up {
+  margin-left: 1em;
+}
+
+.fa-play {
+  margin-left: 2em;
+}
+
+.fa-minus {
+  margin-left: 1em;
+  width: 50%;
+}
+
+.contact-partenaires {
+  margin-top: 4em;
+  border-top: 1px solid gray;
+}
+
+.contact-partenaires a {
+  color: green;
+  text-decoration: underline;
+}
+
+.code-partenaires {
+  margin-top: 4em;
+  padding-top: 4em;
+  border-top: 1px solid gray;
+  padding-bottom: 5em;
 }
 
 ul.polaroids a:after {
