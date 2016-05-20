@@ -25,9 +25,9 @@
 	}
 	var settings = {
 		//height of sphere container
-		height : 1900,
+		height : 1500,
 		//width of sphere container
-		width : 1900,
+		width : 1500,
 		//radius of sphere
 		radius : 500,
 		//rotation speed
